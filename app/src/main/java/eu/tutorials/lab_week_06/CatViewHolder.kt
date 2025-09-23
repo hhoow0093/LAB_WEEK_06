@@ -51,8 +51,4 @@ class CatViewHolder(
 
     }
 
-    //Declare an onClickListener interface
-    interface OnClickListener {
-        fun onClick(cat: CatModel)
-    }
 }
