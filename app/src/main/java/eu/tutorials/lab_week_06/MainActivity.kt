@@ -62,6 +62,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Luna",
+                    "Loves to nap in the sun",
+                    "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Max",
+                    "Playful and always curious",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Bella",
+                    "Elegant and affectionate",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyNQ.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Simba",
+                    "Loves chasing toys",
+                    "https://cdn2.thecatapi.com/images/9si.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Chloe",
+                    "Quiet observer with big eyes",
+                    "https://cdn2.thecatapi.com/images/MTk4ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Oliver",
+                    "Always hungry, never full",
+                    "https://cdn2.thecatapi.com/images/6qi.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.ExoticShorthair,
+                    "Misty",
+                    "Loves hiding under blankets",
+                    "https://cdn2.thecatapi.com/images/2oo.gif"
                 )
             )
         )
